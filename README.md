@@ -1,33 +1,20 @@
-# Foobar
+# Hotel Manageent System 
+Build with php for handling the user interface, js for full responsive functionality, styled with Bootstrap, and mySQL server for backend, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact
 
-Foobar is a Python library for dealing with word pluralization.
+## Tech Stack
+. PHP
+. JavaScript
+. Bootstrap
+. mySQL
 
-## Installation
+## Features
+Make Reservation
+Search Rooms
+Add Payment
+Issue Bills
+Manage Guest (Add, Update guest)
+Manage Room Details (Add, Update, Delete) 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
 
-## Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
